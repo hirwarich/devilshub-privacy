@@ -1,66 +1,67 @@
-# Privacy Policy — Devils Hub: For United Fans
+# Devils Hub Privacy Policy
 
-Effective date: 1 November 2026
+Last updated: November 1, 2026
 
-**Publication draft:** complete the marked fields and confirm the effective date before publication.
+Devils Hub: For United Fans is an independent, unofficial football-history and quiz application. It is not affiliated with, endorsed by, sponsored by, or associated with Manchester United Football Club.
 
-Developer/operator: **[DEVELOPER OR LEGAL ENTITY NAME — REQUIRED]**  
-Privacy contact: **[VALID PRIVACY CONTACT EMAIL OR METHOD — REQUIRED]**
+## Information you provide
 
-## About Devils Hub
-Devils Hub: For United Fans is an independent, unofficial football-history and quiz app. It is not affiliated with or endorsed by Manchester United Football Club. This policy covers Android version 1.0.0.
+Devils Hub does not require an account. The app does not ask you to provide your name, email address, password, or other account information. We do not operate a user-account backend.
 
-You can browse its bundled history and play its games without an account or internet connection. The app also uses Google Analytics for Firebase to understand usage and improve the app. **It collects and sends Analytics information to Google when connectivity is available.**
+## Data stored on your device
 
-## Information used for Analytics
-Firebase automatically records information about app launches, sessions, screen views and engagement. This can include app version, device model, operating system, language, time zone and event times. It uses an app-instance identifier and related installation identifiers to distinguish installations and returning activity. These identifiers are not your name, but they can link activity from the same installation; this information is not anonymous.
+Game progress, scores, XP, achievements, and app preferences are stored locally on your device. These records are not synchronized to a Devils Hub server.
 
-Network connections expose IP information. Google derives an approximate geographic area from connection information; the app does not request GPS or precise-location permission.
+You can remove locally stored information by clearing the app's data in Android settings or uninstalling the app.
 
-The app also records:
-- Which Explore category you open, such as Players or Seasons.
-- The type of history detail you open, such as a player or season.
-- Which of the four games you start and finish.
-- Your actual score when a round finishes.
+## Analytics
 
-The app does not deliberately send player names, specific historical-record identifiers, search terms, typed answers, individual answer selections or other free-text input in these custom events. It does not ask for a name, email address, phone number or account login, and does not access contacts, camera or microphone.
+Devils Hub uses Google Analytics for Firebase to understand how people use the app and improve its features.
 
-## How information is used and processed
-Usage information helps the developer understand popular sections, game participation and return visits. Google processes Analytics information for reporting through Firebase/Google Analytics. This is an external service, not local-only storage.
+Firebase may process information including app launches, sessions, screen views, engagement, app version, device and operating-system information, language, app-instance identifiers, and approximate location derived from network information.
 
-Firebase uses encrypted connections for Analytics transmission. This does not mean that Analytics data is end-to-end encrypted or anonymous. For more about Google's handling, see [Firebase privacy information](https://firebase.google.com/support/privacy) and [Google's privacy policy](https://policies.google.com/privacy).
+Custom Analytics events record which historical categories or types of content are opened, which games are started or completed, and game results.
 
-**[BEFORE PUBLICATION: confirm and describe any enabled Google Signals, Google Ads links, additional Google data-sharing settings or exports. These account settings have not been verified.]**
+We do not intentionally send names, email addresses, search queries, typed answers, or other personal information through custom Analytics events.
 
-## Progress, preferences and offline use
-Completed rounds, XP, ranks, achievements, completion times and appearance preferences are stored on your device. Search filters and unfinished game state may also be retained locally. The full progress ledger is not synchronized to an account or cloud save, although the selected game events and result scores described above are sent for Analytics.
+The app does not request GPS or precise-location access for Analytics.
 
-The historical archive, portraits, credits and DM Sans typeface are packaged with the app. Core browsing, gameplay and saved progress do not depend on Analytics delivery. Firebase can retain events locally and send them later; playing offline is not an Analytics opt-out.
+Analytics may transmit information to Google when an internet connection is available. The app does not offer a separate Analytics opt-out control.
 
-## Advertising and other services
-The app is ad-free and does not include AdMob, purchases, subscriptions, a developer crash-reporting service or account authentication. Advertising-ID collection and advertising personalization are disabled in the app's Analytics configuration. Disabling advertising does not disable Analytics.
+For more information, see [Google's Privacy Policy](https://policies.google.com/privacy) and [Firebase Privacy Information](https://firebase.google.com/support/privacy).
 
-Image-credit and licence links open your browser when selected. Websites and your browser may process connection information under their own policies; the app does not append your progress or preferences to those links.
+## Advertising
 
-DM Sans loads locally without a font-download service. Separately, Android's emoji compatibility library may obtain an emoji font through a device-installed provider. That provider may contact its own service. Its device-specific handling has not been established here; the app does not intentionally supply it with game scores or search terms. Operating-system, font-provider, keyboard and browser practices are separate from the developer's app reporting.
+Devils Hub does not display advertisements and does not use Google AdMob.
 
-## Retention, controls and deletion
-Local progress and preferences remain until you clear the app's storage or uninstall it through Android settings. Clearing storage removes saved progress and preferences. The app disables its configured cloud-backup and device-transfer backups, but device-specific system behavior can vary.
+The app's Firebase Analytics configuration disables Advertising ID collection and advertising personalization signals. Analytics measurement remains active.
 
-Analytics information already sent to Google is separate from local storage. Clearing storage or uninstalling **does not by itself request deletion of previously uploaded Analytics records**.
+## External links
 
-**[ANALYTICS RETENTION — REQUIRED: confirm the property's actual user/event retention period and whether new activity resets it.]** Google's retention controls do not apply identically to aggregated reports, so no blanket deletion deadline is promised here.
+The app may provide links to external websites for image credits, licences, or historical references. Opening these links may connect your device to third-party services governed by their own privacy policies.
 
-This version has no in-app Analytics opt-out, consent prompt, identifier-reset button or server-deletion request feature. Stopping use prevents future app activity, but is not a request to erase past uploads. Questions about data rights or deletion can be sent to the completed privacy contact above. **[DEVELOPER: establish a workable Analytics deletion-request process before promising individualized deletion; the app currently exposes no Analytics identifier to the user.]**
+## Data sharing
 
-Local files use Android app-private storage; the app does not add its own database encryption.
+We do not sell users' personal information.
+
+Google processes information collected through Firebase Analytics to provide usage measurement and reporting. Devils Hub does not maintain a remote database of user accounts or gameplay profiles.
+
+## Retention and deletion
+
+Locally stored progress and preferences remain on your device until you clear the app's data or uninstall it.
+
+Analytics information is processed and retained by Google according to the applicable Firebase and Google Analytics settings. Removing the app does not automatically delete Analytics information previously transmitted to Google.
+
+For privacy questions or deletion requests, contact virgotric@gmail.com.
 
 ## Children's privacy
-The app does not request a birth date or verify a user's age. Analytics works as described above; no separate child-specific collection control is implemented. This policy does not create an age restriction.
 
-**[DEVELOPER — REQUIRED: confirm the intended audience and any necessary child/parental consent safeguards before publication. Do not describe the app as child-directed or suitable for every age without making that decision.]**
+Devils Hub is a football-history and quiz application. It does not knowingly request personal information directly from children through an account or profile system. Analytics processing is described above.
 
-## Changes and contact
-This policy should be updated when the app's data handling changes. Check the effective date when reviewing it.
+## Changes to this policy
 
-For questions, use **[VALID PRIVACY CONTACT — REQUIRED]**. Do not send passwords or sensitive personal documents.
+This policy may be updated when the app, its features, or its data practices change. The date at the top of this page will be revised when material changes are made.
+
+## Contact
+
+Privacy questions: virgotric@gmail.com
