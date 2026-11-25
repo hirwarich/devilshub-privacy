@@ -1,67 +1,116 @@
-# Devils Hub Privacy Policy
+# Privacy Policy – Devils Hub: For United Fans
 
-Last updated: November 1, 2026
+Last updated: 25 November 2026
 
-Devils Hub: For United Fans is an independent, unofficial football-history and quiz application. It is not affiliated with, endorsed by, sponsored by, or associated with Manchester United Football Club.
+Devils Hub: For United Fans is an independent football history and trivia application. It is not affiliated with or endorsed by Manchester United Football Club.
 
-## Information you provide
+This Privacy Policy explains how information is collected, used and processed when you use the application.
 
-Devils Hub does not require an account. The app does not ask you to provide your name, email address, password, or other account information. We do not operate a user-account backend.
+## 1. Local Data and App Usage
 
-## Data stored on your device
+Devils Hub does not require users to create an account.
 
-Game progress, scores, XP, achievements, and app preferences are stored locally on your device. These records are not synchronized to a Devils Hub server.
+Your game progress, experience points (XP), achievements, completed games, preferences and advertising frequency records are stored locally on your device. This information is not synchronized with a Devils Hub server or account.
 
-You can remove locally stored information by clearing the app's data in Android settings or uninstalling the app.
+Clearing the application's data or uninstalling it will remove locally stored progress and preferences.
 
-## Analytics
+## 2. Historical Content and Images
 
-Devils Hub uses Google Analytics for Firebase to understand how people use the app and improve its features.
+Historical information and trivia content are stored within the application and can be accessed offline.
 
-Firebase may process information including app launches, sessions, screen views, engagement, app version, device and operating-system information, language, app-instance identifiers, and approximate location derived from network information.
+Player and manager portraits are retrieved from Wikimedia Commons and cached on your device. When retrieving these images, Wikimedia may receive connection information, including your IP address.
 
-Custom Analytics events record which historical categories or types of content are opened, which games are started or completed, and game results.
+Image credits and licensing information are available within the application.
 
-We do not intentionally send names, email addresses, search queries, typed answers, or other personal information through custom Analytics events.
+## 3. Advertising
 
-The app does not request GPS or precise-location access for Analytics.
+Devils Hub uses Google AdMob to display advertisements.
 
-Analytics may transmit information to Google when an internet connection is available. The app does not offer a separate Analytics opt-out control.
+Advertisements may appear within the Explore section and following completed games. Advertisements do not interrupt active trivia questions or restrict access to historical content or game features.
 
-For more information, see [Google's Privacy Policy](https://policies.google.com/privacy) and [Firebase Privacy Information](https://firebase.google.com/support/privacy).
+Advertising requests use non-personalized advertising settings, protective age-treatment settings and a maximum Teen advertisement content rating.
 
-## Advertising
+Google AdMob may collect, process and share information including:
 
-Devils Hub does not display advertisements and does not use Google AdMob.
+- IP addresses and approximate geographic information derived from them.
+- Device and advertising identifiers.
+- App and advertisement interactions.
+- Performance and diagnostic information.
 
-The app's Firebase Analytics configuration disables Advertising ID collection and advertising personalization signals. Analytics measurement remains active.
+This information may be used for advertising delivery, measurement, reporting, fraud prevention and service operation.
 
-## External links
+Non-personalized advertising does not mean that all data collection is disabled.
 
-The app may provide links to external websites for image credits, licences, or historical references. Opening these links may connect your device to third-party services governed by their own privacy policies.
+## 4. Consent and Privacy Choices
 
-## Data sharing
+Devils Hub uses Google's User Messaging Platform (UMP) to manage applicable advertising consent requirements and privacy choices.
 
-We do not sell users' personal information.
+Depending on your region and privacy preferences, Google may display consent or privacy messages.
 
-Google processes information collected through Firebase Analytics to provide usage measurement and reporting. Devils Hub does not maintain a remote database of user accounts or gameplay profiles.
+Where applicable, you can review or change your advertising privacy choices through Settings → Privacy options within the application.
 
-## Retention and deletion
+Declining advertising consent does not restrict access to the application's content or games. Depending on your choices and applicable requirements, Google may display non-personalized advertisements, limited advertisements or no advertisements.
 
-Locally stored progress and preferences remain on your device until you clear the app's data or uninstall it.
+## 5. Analytics
 
-Analytics information is processed and retained by Google according to the applicable Firebase and Google Analytics settings. Removing the app does not automatically delete Analytics information previously transmitted to Google.
+Devils Hub uses Google Analytics for Firebase to understand application usage and improve the user experience.
 
-For privacy questions or deletion requests, contact virgotric@gmail.com.
+Analytics information may include:
 
-## Children's privacy
+- Application launches and sessions.
+- App-instance identifiers and device information.
+- Engagement with historical content.
+- Game starts, completions and scores.
+- General geographic information derived from connection data.
 
-Devils Hub is a football-history and quiz application. It does not knowingly request personal information directly from children through an account or profile system. Analytics processing is described above.
+The application does not intentionally transmit search queries or typed trivia answers to Firebase Analytics.
 
-## Changes to this policy
+Advertising ID collection for Firebase Analytics and advertising-related consent categories are disabled. Usage analytics remain enabled independently of advertising privacy choices. The application does not currently provide a separate in-app analytics opt-out.
 
-This policy may be updated when the app, its features, or its data practices change. The date at the top of this page will be revised when material changes are made.
+## 6. Age and Location Information
 
-## Contact
+Devils Hub is intended for users aged 13 and older.
 
-Privacy questions: virgotric@gmail.com
+The application does not request your age, date of birth or age verification. Protective advertising settings are applied to all users.
+
+Devils Hub does not request access to your device's precise or approximate location. Third-party services may derive general geographic information from IP addresses.
+
+## 7. Data Retention and Deletion
+
+Locally stored information remains on your device until you clear the application's data or uninstall it.
+
+Information processed by third-party services is subject to their respective privacy policies and retention practices. Uninstalling Devils Hub does not automatically delete information previously transmitted to these services.
+
+You may manage your Advertising ID through your Android device settings.
+
+For privacy-related questions or data deletion requests, please contact us using the email address provided below.
+
+## 8. Third-Party Services
+
+Devils Hub uses the following third-party services:
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+Google Advertising Privacy Information:
+https://policies.google.com/technologies/ads
+
+Firebase Privacy Information:
+https://firebase.google.com/support/privacy
+
+Wikimedia Privacy Policy:
+https://foundation.wikimedia.org/wiki/Policy:Privacy_policy
+
+External websites and services are governed by their own privacy policies.
+
+## 9. Changes to This Privacy Policy
+
+This Privacy Policy may be updated to reflect changes to the application, its services or applicable privacy requirements.
+
+The latest version will remain available on our privacy policy website.
+
+## 10. Contact
+
+For questions, concerns or requests regarding this Privacy Policy, please contact:
+
+virgotric@gmail.com
