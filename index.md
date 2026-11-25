@@ -35,7 +35,7 @@ Google AdMob may collect, process and share information including:
 - IP addresses and approximate geographic information derived from them.
 - Device and advertising identifiers.
 - App and advertisement interactions.
-- Performance and diagnostic information.
+- Performance and diagnostic information, including crash reports.
 
 This information may be used for advertising delivery, measurement, reporting, fraud prevention and service operation.
 
